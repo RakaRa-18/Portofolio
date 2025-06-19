@@ -1,22 +1,18 @@
 {
-    "name": "Aminuddin Rizal (林安明)- Lecturer Computer and Electronic Engineering",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "name": "Raka Ramadhana (拉卡·拉马达纳)- electronics engineering technology student",
+    "description": "dedicate to being an exemplary, honest and civilized student.",
     "profileImage": "images/profile.jpg",
-    "email": "aminuddin.rizal@polines.ac.id",
-    "phone": "+62 (851) 324-78890",
+    "email": "rakar15dhana@gmail.com",
+    "phone": "+62 (838) 943-75697",
     "socialMedia": [
         {
-            "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/aminuddin-rizal128"
+            "platform": "Instagram",
+            "url": "https://Instagram.com/rakarmdhna_"
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://github.com/RakaRa-18"
         },
-        {
-            "platform": "Twitter",
-            "url": "https://twitter.com/redpandalin"
-        }
     ],
     "cv": {
 			"text": "Download CV",
