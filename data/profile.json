@@ -1,7 +1,7 @@
 {
     "name": "Raka Ramadhana (拉卡·拉马达纳)- electronics engineering technology student",
     "description": "dedicate to being an exemplary, honest and civilized student.",
-    "profileImage": "images/profile.jpg",
+    "profileImage": "images/raka.jpg",
     "email": "rakar15dhana@gmail.com",
     "phone": "+62 (838) 943-75697",
     "socialMedia": [
@@ -20,14 +20,10 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 60},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 50},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 70},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 40},
+	{"name": "English Languages", "icon": "fas fa-language", "level": 30}
     ]
 }
