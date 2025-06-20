@@ -1,12 +1,9 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/kelompok.png",
-        "link": "https://example.com/solar-water"
+        "title": "Control Basis Computer",
+        "year": "2025"
+        "role": "Engineer",
+        "description": "Developed Project Control Basis Computer.",
+        "image": "images/kelompok.jpeg",
     }
 ]
